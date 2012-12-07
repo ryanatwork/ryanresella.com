@@ -145,6 +145,11 @@ body {
   letter-spacing: -1px;
 }
 
+.caption p {
+  text-align: left;
+}
+
+
 
 
 /* RESPONSIVE CSS
